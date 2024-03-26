@@ -34,3 +34,5 @@ Para seguir este tutorial, você pode acessar os laboratórios individualmente e
 
 É importante observar que nem todos os sites permitem web scraping. Certifique-se de verificar as políticas de scraping de um site antes de tentar extrair dados dele.
 
+https://www.freecodecamp.org/news/web-scraping-python-tutorial-how-to-scrape-data-from-a-website/
+
